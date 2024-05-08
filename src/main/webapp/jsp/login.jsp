@@ -36,7 +36,7 @@
                     </div>
                     <br>
                     <div class="enlaceRegistro"> 
-                    <a href="./jsp/registroAlumno.jsp">Acceder a registro de alumnos</a>
+                    <a href="./register.jsp">Acceder a registro de alumnos</a>
                 	</div>
                 </form>
                 <br>
